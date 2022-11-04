@@ -1,10 +1,11 @@
-# 本仓库主要包含关于Transformer相关的Image Classification,Object Detection,Semantic Segmentation模型.
+# Transformer: Image Classification,Object Detection,Semantic Segmentation model.
 
-# 目录如下：
+## model index
 
-### 模型：BERT
+#### BERT
       -base.md
-### 模型：DETR
+      [Chinese Blog Explanation](https://blog.csdn.net/weixin_44649780/article/details/126808881)
+#### DETR
       -detr.py
-### 模型：swin Transformer
+#### swin Transformer
       -base.md
