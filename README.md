@@ -7,8 +7,7 @@
     
 #### DETR(DETR)
       -detr.py
-      -
-[Chinese Blog Explanation](https://blog.csdn.net/weixin_44649780/article/details/126808881.html)
+[Chinese Explanation](https://blog.csdn.net/weixin_44649780/article/details/126808881.html)
 
 #### swin Transformer
       -base.md
