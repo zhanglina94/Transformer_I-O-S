@@ -3,11 +3,12 @@
 ## model index
 
 #### BERT
-      -base.md
+      - base.md
     
 #### DETR(DETR)
-      -detr.py
+      - detr.py
+
 [Chinese Explanation](https://blog.csdn.net/weixin_44649780/article/details/126808881.html)
 
 #### swin Transformer
-      -base.md
+      - base.md
