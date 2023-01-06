@@ -1,10 +1,10 @@
-# Transformer Model： Transformer-related models, covering areas such as computer vision and natural language processing.
+### Transformer Model： Transformer-related models, covering areas such as computer vision and natural language processing.
 
-## model index
+ model index
 
 
 ## TODO
-
+- [ ] paper explained
 
 #### BERT
       - base.md
@@ -21,4 +21,11 @@
       - base.md
 
 
-】
+
+
+
+## Res
+
+- [Transformer Paper List](https://github.zhanglina4)
+
+
